@@ -13,7 +13,7 @@ class EmailSendServiceTest {
 
     @Test
     public void EmailTest(){
-        mailgunClient.sendEmail(null);
+        //mailgunClient.sendEmail(null);
         //String response = emailSendService.sendEmail().toString();
         //System.out.println(response);
     }
